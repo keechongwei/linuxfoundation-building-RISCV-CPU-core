@@ -1,6 +1,7 @@
 # Linux Foundation: Building a RISC-V CPU Core
 
-[![Watch the video](https://raw.githubusercontent.com/keechongwei/linuxfoundation-building-RISCV-CPU-core/main/media/thumbnail.jpg)](https://raw.githubusercontent.com/keechongwei/linuxfoundation-building-RISCV-CPU-core/main/media/cpu_test_prog.mp4)
+[![▶️ Watch on YouTube](https://img.youtube.com/vi/O3yng1LCuhI/hqdefault.jpg)](https://youtu.be/O3yng1LCuhI)
+
 
 
 
